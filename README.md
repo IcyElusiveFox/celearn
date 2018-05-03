@@ -32,11 +32,14 @@ Make scaffold for webpage, save it in the *scaffold* directory. Then make webpag
 
 ## Todo list
 
-[x] make homepage scaffold
-[ ] make homepage
-[ ] make *programs* pages' scaffold
-[ ] make *programs* pages
-[ ] make *apply* pages' scaffold
-[ ] make *apply* pages
-[ ] make *publications and journal* page's scaffold
+[x] make homepage scaffold  
+[ ] make homepage  
+[ ] make *programs* pages' scaffold  
+[ ] make *programs* pages  
+[ ] make *apply* pages' scaffold  
+[ ] make *apply* pages  
+[ ] make *publications and journal* page's scaffold  
 [ ] make *publications and journal* page
+
+---
+
